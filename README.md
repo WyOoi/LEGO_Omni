@@ -2,10 +2,6 @@
 
 In Year 2024, SMJK KEAT HWA team participate in 3 categories which is Robosport Category, Lower Secondary Future Innovator Category and Lower Secondary RoboMission Category
 
-<div align="center">
-   <img src="PNG/web.png" alt="map">
-</div>
-
 ## Table of Contents
 1. [Download](#Download)
 2. [Web Setup](#Web_Setup)
